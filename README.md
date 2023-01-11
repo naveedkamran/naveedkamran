@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveedkamran&hide=contribs,prs)
+![Naveed Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveedkamran&hide=contribs,prs)
+
+![Naveed Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveedkamran&show_icons=true&theme=gruvbox)
+
+![Naveed Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveedkamran&count_private=true)
 
 <!--
 **naveedkamran/naveedkamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
