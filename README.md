@@ -1,9 +1,6 @@
-### Hi there 👋
-
-
 ![Naveed Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveedkamran&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedkamran)](https://github.com/naveedkamran/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedkamran&theme=gruvbox)](https://github.com/naveedkamran/github-readme-stats)
 
 <!--
 **naveedkamran/naveedkamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
